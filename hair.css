@@ -1,0 +1,54 @@
+/* CSS File: hairdressing-form.css */
+
+body {
+    background-color: rgb(78, 29, 78);
+    background-image:url("911ee41c-ad3f-42a7-a90b-06d44ca3dbdf.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px 200px;
+    margin-top: 0px;
+    padding: 0px;
+  }
+  
+  h1 {
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  h3 {
+    margin-left: 220px;
+  }
+  
+  form {
+    background-color: pink;
+    border: 5px solid #050104;
+    border-radius: 50px;
+    padding: 30px;
+    margin-top: 5px;
+    margin-left: 200px;
+    margin-right: 200px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input,
+  select {
+
+    padding: 8px;
+    margin-bottom: 20px;
+    border: 2px solid #111010;
+    border-radius: 10px;
+  }
+  
+  .radio input[type="radio"] {
+   margin-left: 10px;
+  }
+  
+  button {
+    color: white;
+    padding: 8px;
+  }
+  
